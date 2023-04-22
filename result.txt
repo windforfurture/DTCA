@@ -1,0 +1,8 @@
+参数:{'text_model': 'roberta', 'image_model': 'vit', 'batch_size': 4, 'alpha': 0.6, 'beta': 0.6}
+multi: {}
+text: {}
+
+参数:{'dataset_type': '2015', 'text_model': 'roberta', 'image_model': 'vit', 'batch_size': 4, 'alpha': 0.6, 'beta': 0.6}
+multi: {'f1': 50.84586466165414, 'precision': 49.58753437213566, 'recall': 52.169720347155256}
+text: {'f1': 48.43222383019777, 'precision': 48.455598455598455, 'recall': 48.40887174541948}
+
