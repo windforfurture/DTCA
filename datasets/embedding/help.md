@@ -1,1 +1,0 @@
-the stored inputs
