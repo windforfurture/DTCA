@@ -3,7 +3,7 @@
 ## 1. dataset and pretrained models
 Download twitter-2015 dataset and twitter-2017 dataset and put them into datasets/ .
 
-download pretrained models and put them into models/ .
+Download pretrained models and put them into models/ .
 
 ## 2. environments
     pip install -r requirements.txt
