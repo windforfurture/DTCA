@@ -32,6 +32,6 @@ Implementation in code model/modeling_dtca.py
 ## 6. ablation study
 Set alpha = 0 or beta = 0
 
-## Welcome any problems!
+## Welcome any questions!
 
 
