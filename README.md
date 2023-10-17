@@ -5,6 +5,8 @@ Download twitter-2015 dataset and twitter-2017 dataset and put them into dataset
 
 Download pretrained models and put them into models/ .
 
+Dataset source: You can find download links in paper "Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection".
+
 ## 2. environments
     pip install -r requirements.txt
 
